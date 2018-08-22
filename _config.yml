@@ -72,16 +72,16 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   email: "xunwang@terpmail.umd.edu"
-  linkedin: "https://www.linkedin.com/in/xun-wang-988181b6/"
-  github: "https://github.com/xw321"
-  instagram: "https://www.instagram.com/vincent__w/"
+  linkedin: xun-wang-988181b6
+  github: xw321
+ # instagram: "https://www.instagram.com/vincent__w/"
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: vincent__w
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
