@@ -1,4 +1,4 @@
-# Beautiful Jekyll
+# About my page
 
 This is my personal website which uses a theme created by user [daattali](https://github.com/daattali)
 
