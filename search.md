@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Search Me"
 subtitle: As you search in incognito mode
 css: "/css/search.css"
