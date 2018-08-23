@@ -1,8 +1,7 @@
 ---
 layout: page
-title: "Search Me"
+title: Search Me
 subtitle: As you search in incognito mode
-css: "/css/search.css"
 ---
 
 
