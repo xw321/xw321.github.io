@@ -25,7 +25,7 @@ description: About tech and life
 navbar-links:
   About Me: "aboutme"
   Blogs:
-    - Posts: 
+    - Posts: "blog"
     - tags: "tags"
   Search: "search"
 
