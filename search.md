@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Search My Page"
+title: "Search Me"
+subtitle: As you search in incognito mode
 css: "/css/search.css"
 ---
 
