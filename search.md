@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Search My Page"
+css: "/css/search.css"
 ---
 
 
